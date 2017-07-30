@@ -13,6 +13,7 @@
 		DF8916CC1F2DBE1200105679 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF8916CB1F2DBE1200105679 /* Assets.xcassets */; };
 		DF8916CF1F2DBE1200105679 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF8916CD1F2DBE1200105679 /* LaunchScreen.storyboard */; };
 		DF8916DA1F2DBE1200105679 /* AutoLayoutReferenceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8916D91F2DBE1200105679 /* AutoLayoutReferenceTests.swift */; };
+		DF8916E51F2DDA4E00105679 /* audreyii.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DF8916E41F2DDA4E00105679 /* audreyii.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		DF8916D51F2DBE1200105679 /* AutoLayoutReferenceTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AutoLayoutReferenceTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF8916D91F2DBE1200105679 /* AutoLayoutReferenceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutoLayoutReferenceTests.swift; sourceTree = "<group>"; };
 		DF8916DB1F2DBE1200105679 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DF8916E41F2DDA4E00105679 /* audreyii.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = audreyii.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		DF8916C31F2DBE1200105679 /* AutoLayoutReference */ = {
 			isa = PBXGroup;
 			children = (
+				DF8916E41F2DDA4E00105679 /* audreyii.jpg */,
 				DF8916C41F2DBE1200105679 /* AppDelegate.swift */,
 				DF8916C61F2DBE1200105679 /* ViewController.swift */,
 				DF8916C81F2DBE1200105679 /* Main.storyboard */,
@@ -182,6 +185,7 @@
 				DF8916CF1F2DBE1200105679 /* LaunchScreen.storyboard in Resources */,
 				DF8916CC1F2DBE1200105679 /* Assets.xcassets in Resources */,
 				DF8916CA1F2DBE1200105679 /* Main.storyboard in Resources */,
+				DF8916E51F2DDA4E00105679 /* audreyii.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
